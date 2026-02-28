@@ -31,6 +31,7 @@ SEA_LANTERN_BLOCK = "sea_lantern"
 FARMLAND = "farmland"
 WATER = "water"
 SHROOMLIGHT = "shroomlight"
+SMOOTH_QUARTZ = "smooth_quartz"
 
 
 # some good blocks for grid like patterns you can count blocks easily
