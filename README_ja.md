@@ -309,7 +309,7 @@ pyenv / poetryのインストール方法は、[こちら](https://github.com/Na
 
 ---
 
-###　リセット
+### リセット
 
 リセットは
 ```python
@@ -319,7 +319,7 @@ mc.setBlocks(-90, param.Y_SEA + 1, -90,   -2, param.AXIS_TOP,    -2,    param.AI
 
 ---
 
-###　屋根
+### 屋根
 
 屋根は
 ```python
